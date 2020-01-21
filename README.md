@@ -1,2 +1,2 @@
-# exam-2
+# exam2
 html css bootstrap
